@@ -1,0 +1,6 @@
+[submodule "fonts"]
+	path = fonts
+	url = https://github.com/edition-stuffs/fonts
+[submodule "lib"]
+	path = lib
+	url = https://github.com/edition-stuffs/lib
